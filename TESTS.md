@@ -8,23 +8,6 @@
 ```
 sudo -H pip3 install pytest
 ```
-- ## 01 Elimina Última y Primera Palabra
-    ### Run command
-    ```
-    pytest assignments/01EliminaUltPrimPalabra
-    ```
-
-- ## 02 Archivo Calcula Promedio
-    ### Run command
-    ```
-    pytest assignments/02ArchivoCalculaPromedio
-    ```
-
-- ## 03 Reporte Archivo
-    ### Run command
-    ```
-    pytest assignments/03ReporteArchivo
-    ```
 
 - ## 04 Escribe Archivo
     ### Run command
